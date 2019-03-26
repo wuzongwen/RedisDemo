@@ -1,0 +1,11 @@
+F:\插件\Redis\Redis\bin\Debug\Redis.exe.config
+F:\插件\Redis\Redis\bin\Debug\Redis.exe
+F:\插件\Redis\Redis\bin\Debug\Redis.pdb
+F:\插件\Redis\Redis\bin\Debug\StackExchange.Redis.StrongName.dll
+F:\插件\Redis\Redis\bin\Debug\StackExchange.Redis.StrongName.xml
+F:\插件\Redis\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
+F:\插件\Redis\Redis\obj\Debug\Redis.Form1.resources
+F:\插件\Redis\Redis\obj\Debug\Redis.Properties.Resources.resources
+F:\插件\Redis\Redis\obj\Debug\Redis.csproj.GenerateResource.Cache
+F:\插件\Redis\Redis\obj\Debug\Redis.exe
+F:\插件\Redis\Redis\obj\Debug\Redis.pdb
